@@ -1,1 +1,1 @@
-# fiddle-tcg-go
+# Command-Line Trading Card Game
